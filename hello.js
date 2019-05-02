@@ -5,3 +5,5 @@ class Cat {
     this.name = name;
   }
 }
+
+const firstCat = new Cat('Tom');
