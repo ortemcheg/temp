@@ -9,5 +9,5 @@ class Cat {
   }
 }
 
-const firstCat = new Cat('Tom');
+const firstCat = new Cat('Leo');
 firstCat.sayMeow();
