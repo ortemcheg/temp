@@ -10,3 +10,4 @@ class Cat {
 }
 
 const firstCat = new Cat('Tom');
+firstCat.sayMeow();
