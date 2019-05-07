@@ -5,7 +5,7 @@ class Cat {
     this.name = name;
   }
   sayMeow() {
-    retirn 'meow';
+    return 'meow';
   }
 }
 
