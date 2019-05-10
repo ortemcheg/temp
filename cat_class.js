@@ -3,6 +3,6 @@ exports default class Cat {
     this.name = name;
   }
   sayMeow() {
-    return 'meow';
+    return `{this.name} is meowing`;
   }
 }
