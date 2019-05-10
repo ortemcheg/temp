@@ -6,7 +6,7 @@ const descriptor = { hello: 'world', first: 'second' };
 
 const firstCat = new Cat('Leo');
 firstCat.sayMeow();
-const secondCat = new Cat('Kot');
+const secondCat = new Cat('Kiso');
 secondCat.sayMeow();
 const thirdCat = new Cat('Tom');
 thirdCat.sayMeow();
