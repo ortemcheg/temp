@@ -8,3 +8,4 @@ const firstCat = new Cat('Leo');
 firstCat.sayMeow();
 const secondCat = new Cat('Begemot');
 secondCat.sayMeow();
+const thirdCat = new Cat('Tom');
