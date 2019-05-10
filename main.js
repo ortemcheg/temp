@@ -6,9 +6,11 @@ class Cat {
     this.name = name;
   }
   sayMeow() {
-    return 'meow';
+    return `${this.name} says meow`;
   }
 }
 
 const firstCat = new Cat('Leo');
 firstCat.sayMeow();
+const secondCat = new Cat('Begemot');
+secondCat.sayMeow();
