@@ -5,4 +5,7 @@ exports default class Cat {
   sayMeow() {
     return `{this.name} is meowing`;
   }
+  raiseTail() {
+    return `{this.name} has just risen its tail`;
+  }
 }
